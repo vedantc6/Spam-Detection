@@ -1,9 +1,6 @@
 
 # coding: utf-8
 
-# In[24]:
-
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -82,9 +79,4 @@ for msg in false_spam:
     print msg
 
 
-
-# In[1]:
-
-
-get_ipython().system(u'pip install wordcloud')
 
